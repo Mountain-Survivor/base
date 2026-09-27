@@ -1,0 +1,17 @@
+[
+    {
+        "name" : "bert",
+        "version" : 2,
+        "ready" : true
+    },
+    {
+        "name" : "resnet",
+        "version" : 4,
+        "ready" : false
+    },
+    {
+        "name" : "xgboost",
+        "version" : 1,
+        "ready" : true
+    }
+]
