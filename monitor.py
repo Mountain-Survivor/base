@@ -23,4 +23,4 @@ for model in models:
         print(model["name"], "NOT READY")
 """
 
-print("Feature monitor enabled")
+print("Experimental monitor enabled")
