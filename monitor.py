@@ -22,3 +22,5 @@ for model in models:
     else:
         print(model["name"], "NOT READY")
 """
+
+print("Feature monitor enabled")
