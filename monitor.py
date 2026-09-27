@@ -23,4 +23,4 @@ for model in models:
         print(model["name"], "NOT READY")
 """
 
-print("Main monitor enabled")
+print("Merged monitor enabled")
