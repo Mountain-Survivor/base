@@ -7,7 +7,7 @@
     {
         "name" : "resnet",
         "version" : 4,
-        "ready" : false
+        "ready" : true
     },
     {
         "name" : "xgboost",
