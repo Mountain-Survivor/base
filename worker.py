@@ -18,3 +18,4 @@ while True:
         print("작업 받음:", task[1])
         result = predict_model(int(task[1]))
         print("예측 결과:", result)
+        r.set("prediction_result", result)
